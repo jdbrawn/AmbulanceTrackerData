@@ -1,0 +1,13 @@
+id,x.location,y.location,status,ambulance
+1,9,31,Transporting,A42
+2,27,40,Assigned,A7
+3,82,12,Pending,-
+4,43,43,Pending,A117
+5,43,43,Pending,-
+6,43,43,Pending,-
+7,43,43,Pending,-
+8,43,43,Pending,-
+9,43,43,Pending,A32
+10,43,43,Pending,-
+11,43,43,Pending,-
+12,43,43,Pending,-
